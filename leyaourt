@@ -7,7 +7,7 @@ key <TLDE> {[ grave,        asciitilde, dead_grave,           dead_tilde       ]
 key <AE01> {[ exclam,       1,          exclamdown,           onesuperior      ]};
 key <AE02> {[ at,           2,          twosuperior,          dead_doubleacute ]};
 key <AE03> {[ numbersign,   3,          threesuperior,        dead_macron      ]};
-key <AE04> {[ dollar,       4,          currency,             sterling         ]};
+key <AE04> {[ dollar,       4,          EuroSign,             sterling         ]};
 key <AE05> {[ percent,      5,          EuroSign,             dead_cedilla     ]};
 key <AE06> {[ asciicircum,  6,          dead_circumflex,      onequarter       ]};
 key <AE07> {[ ampersand,    7,          onehalf,              dead_horn        ]};
