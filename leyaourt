@@ -46,7 +46,7 @@ key <AC08> {[ k,            K                                                  ]
 key <AC09> {[ l,            L                                                  ], [ 9 ], [ grave,      asciitilde  ]};
 key <AC10> {[ semicolon,    colon                                              ], [ 0 ]};
 key <AC11> {[ apostrophe,   quotedbl,   dead_acute,           dead_diaeresis   ]};
-key <BKSL> {[ ISO_Next_Group ], [ ISO_Next_Group ], [ ISO_Next_Group ]};
+key <BKSL> {[ backslash,    bar,        backslash,            bar              ]};
 
 key <LSGT> {[ backslash,    bar,        backslash,            bar              ]};
 key <AB01> {[ z,            Z                                                  ], [ backslash,  bar         ], [ backslash,  bar         ]};
