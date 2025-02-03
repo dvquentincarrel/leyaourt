@@ -29,7 +29,7 @@ key <AD04> {[ r,            R,          ecircumflex,          Ecircumflex      ]
 key <AD05> {[ t,            T,          U2122,                U0001F972        ], [t], [ braceleft       ]};
 key <AD06> {[ y,            Y                                                  ], [y], [ braceright      ]};
 key <AD07> {[ u,            U,          ugrave,               Ugrave           ], [u], [ bracketright    ]};
-key <AD08> {[ i,            I                                                  ], [i], [ parenright      ]};
+key <AD08> {[ i,            I,          icircumflex                            ], [i], [ parenright      ]};
 key <AD09> {[ o,            O,          ocircumflex,          Ocircumflex      ], [o], [ slash           ]};
 key <AD10> {[ p,            P                                                  ], [p], [ greater         ]};
 key <AD11> {[ bracketleft,  braceleft                                          ]};
