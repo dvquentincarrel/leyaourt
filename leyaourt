@@ -39,7 +39,7 @@ key <AC03> {[ d,            D                                                  ]
 key <AC04> {[ f,            F,          f,                    F                ]};
 key <AC05> {[ g,            G                                                  ]};
 key <AC06> {[ h,            H                                                  ]};
-key <AC07> {[ j,            J                                                  ]};
+key <AC07> {[ j,            J,          ucircumflex,          Ucircumflex      ]};
 key <AC08> {[ k,            K                                                  ]};
 key <AC09> {[ l,            L                                                  ]};
 key <AC10> {[ semicolon,    colon                                              ]};
@@ -63,3 +63,4 @@ key <SPCE> {[ space,        space,      nobreakspace  ]};
 
 include "level3(ralt_switch)"
 };
+// vim: ft=xkb
