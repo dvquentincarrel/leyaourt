@@ -60,6 +60,7 @@ key <AB10> {[ slash,        question                                           ]
 key <AB11> {[ backslash,    bar,        backslash,            bar              ]};
 
 key <SPCE> {[ space,        space,      nobreakspace  ]};
+key <COPY> {[ XF86Copy,     XF86Paste,  XF86Cut       ]};
 
 include "level3(ralt_switch)"
 };
